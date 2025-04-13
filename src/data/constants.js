@@ -14,7 +14,7 @@ export const Bio = {
   name: "Jera",
   roles: ["Full Stack Developer", "Programmer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a driven and adaptable individual, always enthusiastic about embracing new challenges. Fueled by a passion for learning, I am committed to producing high-quality work. With a positive outlook and a growth-oriented mindset, I am prepared to make a meaningful impact and accomplish great results.",
   github: "https://github.com/jerahmeel200",
   resume:
     "https://docs.google.com/document/d/1ii-FyZG6piWMjv66PbmwQFtJyEZ79zpp9EvSrw3gkKI/edit",
@@ -230,7 +230,7 @@ export const experiences = [
     date: "June 2022 - 2023 ",
     desc: "Completed a 6+ month intensive training in Full Stack Web Development, gaining hands-on experience with both frontend and backend technologies. Actively participated in a live project, contributing to real-world development tasks and collaborating with a team to build and deploy a fully functional web application. ",
 
-    skills: ["ReactJS", "Bootstarp", "CSS", "JavaScript"],
+    skills: ["Html", "CSS", "JavaScript",  "NodeJs", "ExpressJs", "MongoDB"],
     doc: "",
   },
   {
@@ -260,18 +260,18 @@ export const education = [
     img: uj,
     school: "University of Jos, Nigeria",
     date: "2017 - 2021",
-    grade: "8.71 CGPA",
-    desc: "Bachelor of Business Administration - BBA ",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    
+    
+    degree: "Bachelor of Business Administration - BBA",
   },
   {
     id: 1,
     img: fgc,
     school: "Federal Government College Jos",
     date: "Apr 2010 - Apr 2016",
-    grade: "88.2%",
+    grade: "",
     desc: "I completed my high school education  at Federal Government College Jos.",
-    degree: "art",
+    degree: "",
   },
 ];
 
