@@ -7,6 +7,8 @@ import fgc from "../images/fgc.png";
 import cvspan from "../images/cvspan.png";
 import hng from "../images/hng.png";
 import zuri from "../images/zuri.png";
+import ticket from "../images/ticket.png";
+import language from "../images/language.png";
 
 export const Bio = {
   name: "Jera",
@@ -279,7 +281,7 @@ export const projects = [
     title: "mploy",
     date: "Apr 2023",
     description:
-      "An E-commerce app that allows  user  buy any type of product and also provision for product checkout",
+      "Built with AI-driven matching algorithms, Mploy is a modern recruitment platform designed to optimize candidate sourcing and streamline the hiring workflow",
     image:mploy, 
 
     tags: ["React Js", "Node JS", "framer-motion"],
@@ -290,29 +292,27 @@ export const projects = [
 
   {
     id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
+    title: "Conference Ticket Generator",
+    date: "2025",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS", "framer-motion"],
+      "An application that allows users to generate a conference ticket by filling out a form with their details, including their name, email, and avatar upload. The form performs validation, persists data using local storage, and displays the ticket upon successful submission.",
+    image:ticket,
+    tags: ["Typescript", "React Js", "Tailwind css", "UseContext", "Cloudinary"],
     category: "web app",
-    github: "https://github.com/jerahmeel200/Mploy.git",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "https://github.com/jerahmeel200/ai-Code-translator",
+    webapp: "https://conference-ticket-generator-sand.vercel.app/",
   },
   {
     id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
+    title: "AI Powered Text Processing Interface",
+    date: "2025",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+      "An AI-powered AI-powered chat application that supports message translation, language detection, and summarization. It utilizes the Chrome Language API  for real-time processing of user messages.",
+    image:language,
+    tags: ["Typescript","React Js", "Chrome Language API ", "AWS Auth", "Node JS"],
     category: "web app",
-    github: "https://github.com/jerahmeel200/todo-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "https://github.com/jerahmeel200/AI-Powered-Text-Processing-Interface",
+    webapp: "https://ai-powered-text-processing-interface-ecru.vercel.app/",
   },
 
   {
