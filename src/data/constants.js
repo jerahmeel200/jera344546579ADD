@@ -17,7 +17,7 @@ export const Bio = {
     "I am a driven and adaptable individual, always enthusiastic about embracing new challenges. Fueled by a passion for learning, I am committed to producing high-quality work. With a positive outlook and a growth-oriented mindset, I am prepared to make a meaningful impact and accomplish great results.",
   github: "https://github.com/jerahmeel200",
   resume:
-    "https://docs.google.com/document/d/1ii-FyZG6piWMjv66PbmwQFtJyEZ79zpp9EvSrw3gkKI/edit",
+    "https://docs.google.com/document/d/1LBWa7t-talvCZum2sxgoEMjYSRttBZFybDdwcNjdWrQ/edit?usp=sharing",
   linkedin: "https://www.linkedin.com/in/jerahmeel-princewill/",
   twitter: "https://twitter.com/JerahmeelJamico",
   insta: "https://www.instagram.com/jamix211/",
@@ -218,7 +218,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
       "firebase",
-      "pespective API",
+      "perspective API",
     ],
   },
 
@@ -238,7 +238,7 @@ export const experiences = [
     img: sofhub,
     role: "Frontend Engineer",
     company: "Sofhub LLC,",
-    date: "June 2022 - 2023 ",
+    date: "August 2022 - 2023 ",
     desc: " Communicated effectively to define APIs and handle data exchange between the frontend and backend, ensuring seamless functionality of the app. Implemented the UI design using CSS3, Bootstrap and JavaScript & React Ensured cross-browser compatibility and responsive layouts in all application pages    ",
 
     skills: [
